@@ -1,0 +1,3 @@
+[submodule "cosim-arch-checker"]
+	path = cosim-arch-checker
+	url = https://github.com/tenstorrent/cosim-arch-checker
